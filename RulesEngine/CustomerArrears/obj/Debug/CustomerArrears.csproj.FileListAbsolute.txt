@@ -1,0 +1,7 @@
+C:\VSSolution\ArrearsService\CustomerArrears\bin\Debug\CustomerArrears.dll
+C:\VSSolution\ArrearsService\CustomerArrears\bin\Debug\CustomerArrears.pdb
+C:\VSSolution\ArrearsService\CustomerArrears\obj\Debug\CustomerArrears.csprojResolveAssemblyReference.cache
+C:\VSSolution\ArrearsService\CustomerArrears\obj\Debug\CustomerArrears.dll
+C:\VSSolution\ArrearsService\CustomerArrears\obj\Debug\CustomerArrears.pdb
+C:\VSSolution\ArrearsService\CustomerArrears\bin\Debug\RulesEngine.dll
+C:\VSSolution\ArrearsService\CustomerArrears\bin\Debug\RulesEngine.pdb
