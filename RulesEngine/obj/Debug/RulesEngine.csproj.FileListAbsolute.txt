@@ -1,0 +1,10 @@
+C:\VSProjects\RulesEngine\RulesEngine\bin\Debug\RulesEngine.dll
+C:\VSProjects\RulesEngine\RulesEngine\bin\Debug\RulesEngine.pdb
+C:\VSProjects\RulesEngine\RulesEngine\obj\Debug\RulesEngine.dll
+C:\VSProjects\RulesEngine\RulesEngine\obj\Debug\RulesEngine.pdb
+C:\VSProjects\RulesEngine\RulesEngine\obj\Debug\RulesEngine.csprojResolveAssemblyReference.cache
+C:\VSSolution\RulesEngine\RulesEngine\bin\Debug\RulesEngine.dll
+C:\VSSolution\RulesEngine\RulesEngine\bin\Debug\RulesEngine.pdb
+C:\VSSolution\RulesEngine\RulesEngine\obj\Debug\RulesEngine.dll
+C:\VSSolution\RulesEngine\RulesEngine\obj\Debug\RulesEngine.pdb
+C:\VSSolution\RulesEngine\RulesEngine\obj\Debug\RulesEngine.csprojResolveAssemblyReference.cache
