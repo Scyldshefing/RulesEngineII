@@ -1,0 +1,9 @@
+C:\VSSolution\RulesEngine\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\VSSolution\RulesEngine\Helpers\bin\Debug\Helpers.dll
+C:\VSSolution\RulesEngine\Helpers\bin\Debug\Helpers.pdb
+C:\VSSolution\RulesEngine\Helpers\bin\Debug\CustomerArrears.dll
+C:\VSSolution\RulesEngine\Helpers\bin\Debug\RulesEngine.dll
+C:\VSSolution\RulesEngine\Helpers\bin\Debug\CustomerArrears.pdb
+C:\VSSolution\RulesEngine\Helpers\bin\Debug\RulesEngine.pdb
+C:\VSSolution\RulesEngine\Helpers\obj\Debug\Helpers.dll
+C:\VSSolution\RulesEngine\Helpers\obj\Debug\Helpers.pdb
