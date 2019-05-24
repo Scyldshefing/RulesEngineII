@@ -2,7 +2,7 @@
 //   This software is protected.
 // </copyright>
 // <summary>
-//   Defines a rules action (test to github).
+//   Defines a rules action.
 // </summary>
 
 namespace RulesEngine
