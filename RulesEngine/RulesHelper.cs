@@ -111,7 +111,7 @@ namespace RulesEngine
                 if (expressionToCompile != null)
                 {
                     ruleDefinition.CompiledExpression =
-                        Expression.Lambda<Func<T, void>>(expressionToCompile, parameter).Compile();
+                        Expression.Lambda<Func<T, int>>(expressionToCompile, parameter).Compile();
                 }
             }
         }

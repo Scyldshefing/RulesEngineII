@@ -61,7 +61,7 @@
     <Compile Include="GivenIfThenElse.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ArrearsService\CustomerArrears\CustomerArrears.csproj">
+    <ProjectReference Include="..\CustomerArrears\CustomerArrears.csproj">
       <Project>{5bb3454b-d60f-44a8-8d8c-e09578e14d9b}</Project>
       <Name>CustomerArrears</Name>
     </ProjectReference>

@@ -34,3 +34,14 @@ C:\VSSolution\RulesEngine\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\VSSolution\RulesEngine\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
 C:\VSSolution\RulesEngine\UnitTestProject1\bin\Debug\CustomerArrears.dll
 C:\VSSolution\RulesEngine\UnitTestProject1\bin\Debug\CustomerArrears.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\UnitTestProject1\bin\Debug\CustomerArrears.dll
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\UnitTestProject1\bin\Debug\RulesEngine.dll
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\UnitTestProject1\bin\Debug\CustomerArrears.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\UnitTestProject1\bin\Debug\RulesEngine.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

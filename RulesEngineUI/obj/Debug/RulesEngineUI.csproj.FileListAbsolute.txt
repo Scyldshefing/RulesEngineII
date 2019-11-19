@@ -29,3 +29,17 @@ C:\VSSolution\RulesEngine\RulesEngineUI\bin\Debug\Newtonsoft.Json.xml
 C:\VSSolution\RulesEngine\RulesEngineUI\bin\Debug\log4net.xml
 C:\VSSolution\RulesEngine\RulesEngineUI\bin\Debug\CustomerArrears.dll
 C:\VSSolution\RulesEngine\RulesEngineUI\bin\Debug\CustomerArrears.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\bin\Debug\RulesEngineUI.exe.config
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\bin\Debug\RulesEngineUI.exe
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\bin\Debug\RulesEngineUI.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\bin\Debug\CustomerArrears.dll
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\bin\Debug\RulesEngine.dll
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\bin\Debug\CustomerArrears.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\bin\Debug\RulesEngine.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\obj\Debug\RulesEngineUI.csprojAssemblyReference.cache
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\obj\Debug\RulesEngineUI.Form1.resources
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\obj\Debug\RulesEngineUI.Properties.Resources.resources
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\obj\Debug\RulesEngineUI.csproj.GenerateResource.cache
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\obj\Debug\RulesEngineUI.csproj.CopyComplete
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\obj\Debug\RulesEngineUI.exe
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngineUI\obj\Debug\RulesEngineUI.pdb

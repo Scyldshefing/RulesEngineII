@@ -1,0 +1,15 @@
+C:\VSSolution\ArrearsService\CustomerArrears\bin\Debug\CustomerArrears.dll
+C:\VSSolution\ArrearsService\CustomerArrears\bin\Debug\CustomerArrears.pdb
+C:\VSSolution\ArrearsService\CustomerArrears\obj\Debug\CustomerArrears.csprojResolveAssemblyReference.cache
+C:\VSSolution\ArrearsService\CustomerArrears\obj\Debug\CustomerArrears.dll
+C:\VSSolution\ArrearsService\CustomerArrears\obj\Debug\CustomerArrears.pdb
+C:\VSSolution\ArrearsService\CustomerArrears\bin\Debug\RulesEngine.dll
+C:\VSSolution\ArrearsService\CustomerArrears\bin\Debug\RulesEngine.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\CustomerArrears\bin\Debug\CustomerArrears.dll
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\CustomerArrears\bin\Debug\CustomerArrears.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\CustomerArrears\bin\Debug\RulesEngine.dll
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\CustomerArrears\bin\Debug\RulesEngine.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\CustomerArrears\obj\Debug\CustomerArrears.csprojAssemblyReference.cache
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\CustomerArrears\obj\Debug\CustomerArrears.csproj.CopyComplete
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\CustomerArrears\obj\Debug\CustomerArrears.dll
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\CustomerArrears\obj\Debug\CustomerArrears.pdb

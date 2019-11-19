@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RulesEngine",
-    "\\RulesEngineUI"
+    "\\RulesEngineUI",
+    "\\UnitTestProject1"
   ],
-  "SelectedNode": "\\RulesEngine\\RuleAction.cs",
+  "SelectedNode": "\\RulesEngineUI",
   "PreviewInSolutionExplorer": false
 }
