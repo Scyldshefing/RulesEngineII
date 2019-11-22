@@ -12,3 +12,4 @@ C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngine\obj\Debug\RulesEng
 C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngine\bin\Debug\RulesEngine.dll
 C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngine\bin\Debug\RulesEngine.pdb
 C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngine\obj\Debug\RulesEngine.pdb
+C:\Users\Tony.Bradford\source\repos\RulesEngineII\RulesEngine\obj\Debug\RulesEngine.csprojAssemblyReference.cache
